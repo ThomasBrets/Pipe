@@ -1,0 +1,308 @@
+[
+    {
+        "title": "ZAPATILLAS NIKE AIR HUARACHE",
+        "price": 23.999 ,
+        "description": "Zapatillas Nike Air Huarache De Running Para Mujer Código: Dh4439-001",
+        "stock": 50,
+        "state": true,
+        "img": "https://essential.vteximg.com.br/arquivos/ids/504998-1000-1000/316-0218_1.jpg?v=637747581287000000",
+        "category": ["Zapatillas"]
+    },
+    {
+        "title": "ZAPATILLAS NIKE AIR MAX 90 SE",
+        "price": 26.999 ,
+        "description": "Zapatillas Nike Air Max 90 Se De Moda Para Hombre Código: Db0636-400",
+        "stock": 30,
+        "state": true,
+        "img": "https://essential.vteximg.com.br/arquivos/ids/497165-1000-1000/316-0199_1.jpg?v=637728568835670000",
+        "category": ["Zapatillas"]
+    },
+    {
+        "title": "ZAPATILLAS NIKE AIR MAX 95",
+        "price": 32.999 ,
+        "description": "ZAPATILLAS NIKE AIR MAX 95 De Running Para Mujer Código: DJ1495-100",
+        "stock": 32,
+        "state": true,
+        "img": "https://essential.vteximg.com.br/arquivos/ids/503011-1000-1000/316-0202_1.jpg?v=637741514504570000",
+        "category": ["Zapatillas"]
+    },
+    {
+        "title": "ZAPATILLAS NIKE CRATER IMPACT",
+        "price": 20.999 ,
+        "description": "Zapatillas Nike Crater Impact De Running Para Mujer Código: Cw2386-002",
+        "stock": 10,
+        "state": true,
+        "img": "https://essential.vteximg.com.br/arquivos/ids/497030-1000-1000/316-0190_1.jpg?v=637727832968100000",
+        "category": ["Zapatillas"]
+    },
+    {
+        "title": "ZAPATILLAS NIKE AIR MAX 90 SE",
+        "price": 26.999 ,
+        "description": "Zapatillas Nike Air Max 90 Se De Moda Para Hombre Código: Dd0385-400",
+        "stock": 40,
+        "state": true,
+        "img": "https://essential.vteximg.com.br/arquivos/ids/505637-1000-1000/316-0127_1.jpg?v=637751782830670000",
+        "category": ["Zapatillas"]
+    },
+    {
+        "title": "ZAPATILLAS NIKE AIR FORCE 1 07",
+        "price": 23.499 ,
+        "description": "Zapatillas Nike Air Force 1 07 De Moda Para Hombre Código: Cu5625-122",
+        "stock": 23,
+        "state": true,
+        "img": "https://essential.vteximg.com.br/arquivos/ids/432205-1000-1000/306-9783_1.jpg?v=637571120506070000",
+        "category": ["Zapatillas"]
+    },
+    {
+        "title": "ZAPATILLAS NIKE AIR FORCE 1 GTX",
+        "price": 31.999 ,
+        "description": "Zapatillas Nike Air Force 1 Gtx De Moda Para Hombre Código: Ct2858-200",
+        "stock": 60,
+        "state": true,
+        "img": "https://essential.vteximg.com.br/arquivos/ids/417508-1000-1000/306-9775_1.jpg?v=637538501112170000",
+        "category": ["Zapatillas"]
+    },
+    {
+        "title": "ZAPATILLAS NIKE AIR FORCE 1 '07 SE",
+        "price": 21.499 ,
+        "description": "ZAPATILLAS NIKE AIR FORCE 1 '07 SE De Basket Para Mujer Código: CT1414-100",
+        "stock": 10,
+        "state": true,
+        "img": "https://essential.vteximg.com.br/arquivos/ids/403333-1000-1000/306-7865_1.jpg?v=637472677251500000",
+        "category": ["Zapatillas"]
+    },
+    {
+        "title": "BOTITAS NIKE AIR MORE UPTEMPO 96",
+        "price": 44.999 ,
+        "description": "Nike lanzó una nueva combinación de colores Air More Uptempo que viene vestida con una combinación de negro, blanco y láser carmesí. Esta oferta del modelo clásico de los años 90 presenta una parte superior de nobuk negro con lengüetas de malla detalladas con acentos Laser Crimson en la marca AIR y la suela exterior de goma. Los detalles en blanco y el logotipo de Swoosh completan el diseño.",
+        "stock": 10,
+        "state": true,
+        "img": "https://essential.vteximg.com.br/arquivos/ids/319888-1000-1000/306-6079_1.jpg?v=637190060095000000",
+        "category": ["Zapatillas"]
+    },
+    {
+        "title": "REMERA NIKE SPORTSWEAR",
+        "price": 5.999 ,
+        "description": "Remera Nike Sportswear De Moda Para Hombre Código: Dd3349-010",
+        "stock": 25,
+        "state": true,
+        "img": "https://essential.vteximg.com.br/arquivos/ids/504277-1000-1000/302-0581_1.jpg?v=637744996577800000",
+        "category": ["Remeras"]
+    },
+    {
+        "title": "REMERA NIKE NSW BY AIR",
+        "price": 4.999 ,
+        "description": "REMERA NIKE NSW BY AIR De Moda Para Hombre Código: DJ1421-010",
+        "stock": 30,
+        "state": true,
+        "img": "https://essential.vteximg.com.br/arquivos/ids/498894-1000-1000/302-0578_1.jpg?v=637733461254030000",
+        "category": ["Remeras"]
+    },
+    {
+        "title": "REMERA NIKE FUTURA",
+        "price": 4.999 ,
+        "description": "Remera Nike Futura De Moda Para Hombre Código: Dd9169-010",
+        "stock": 40,
+        "state": true,
+        "img": "https://essential.vteximg.com.br/arquivos/ids/488950-1000-1000/302-6246_1.jpg?v=637713897365270000",
+        "category": ["Remeras"]
+    },
+    {
+        "title": "REMERA NIKE RTLP 1 FS",
+        "price": 14.2990 ,
+        "description": "Remera Nike Rtlp 1 Fs De Moda Para Niño Código: Dj4216-091",
+        "stock": 25,
+        "state": true,
+        "img": "https://essential.vteximg.com.br/arquivos/ids/497045-1000-1000/302-3308_1.jpg?v=637728568152970000",
+        "category": ["Remeras"]
+    },
+    {
+        "title": "REMERA NIKE ICON CLASH",
+        "price": 5.999 ,
+        "description": "Remera Nike Icon Clash De Moda Para Mujer Código: Dj1816-673",
+        "stock": 30,
+        "state": true,
+        "img": "https://essential.vteximg.com.br/arquivos/ids/479964-1000-1000/302-0538_1.jpg?v=637698976520570000",
+        "category": ["Remeras"]
+    },
+    {
+        "title": "REMERA NIKE FESTIVAL DYE",
+        "price": 6.499 ,
+        "description": "REMERA NIKE FESTIVAL DYE De Moda Para Hombre Código: DD1270-100",
+        "stock": 10,
+        "state": true,
+        "img": "https://essential.vteximg.com.br/arquivos/ids/460257-1000-1000/302-0505_1.jpg?v=637650550459400000",
+        "category": ["Remeras"]
+    },
+    {
+        "title": "REMERA NIKE REVERSE SEASON",
+        "price": 5.299 ,
+        "description": "Remera Nike Reverse Season De Moda Para Hombre Código: Cu9103-735",
+        "stock": 40,
+        "state": true,
+        "img": "https://essential.vteximg.com.br/arquivos/ids/409204-1000-1000/302-0368_1.jpg?v=637504812994270000",
+        "category": ["Remeras"]
+    },
+    {
+        "title": "REMERA NIKE JORDAN",
+        "price": 4.799 ,
+        "description": "Remera Nike Jordan De Moda Para Hombre Código: Cj6304-100",
+        "stock": 30,
+        "state": true,
+        "img": "https://essential.vteximg.com.br/arquivos/ids/408080-1000-1000/302-0395_1.jpg?v=637498486095500000",
+        "category": ["Remeras"]
+    },
+    {
+        "title": "REMERA NIKE FOOD",
+        "price": 5.999 ,
+        "description": "REMERA NIKE FOOD De Moda Para Hombre Código: CW0472-063",
+        "stock": 40,
+        "state": true,
+        "img": "https://essential.vteximg.com.br/arquivos/ids/408467-1000-1000/302-0329_1.jpg?v=637504645528600000",
+        "category": ["Remeras"]
+    },
+    {
+        "title": "BUZO NIKE FRENCH TERRY",
+        "price": 10.999 ,
+        "description": "Buzo Nike French Terry De Moda Para Hombre Código: Dd4666-589",
+        "stock": 50,
+        "state": true,
+        "img": "https://essential.vteximg.com.br/arquivos/ids/490911-1000-1000/302-3313_1.jpg?v=637717089033470000",
+        "category": ["Buzos"]
+    },
+    {
+        "title": "BUZO NIKE CLUB",
+        "price": 8.499 ,
+        "description": "Buzo Nike Club De Moda Para Hombre Código: Bv2662-800",
+        "stock": 40,
+        "state": true,
+        "img": "https://essential.vteximg.com.br/arquivos/ids/493500-1000-1000/302-0558_1.jpg?v=637722378497900000",
+        "category": ["Buzos"]
+    },
+    {
+        "title": "BUZO NIKE JUST DO IT",
+        "price": 10.499 ,
+        "description": "Buzo Nike Just Do It De Moda Para Hombre Código: Dd6246-410",
+        "stock": 60,
+        "state": true,
+        "img": "https://essential.vteximg.com.br/arquivos/ids/477825-1000-1000/302-3304_1.jpg?v=637689704538270000",
+        "category": ["Buzos"]
+    },
+    {
+        "title": "BUZO NIKE M NSW NIKE AIR FLC CREW",
+        "price": 14.499 ,
+        "description": "BUZO NIKE M NSW NIKE AIR FLC CREW De Moda Para Hombre Código: DA0220-010",
+        "stock": 25,
+        "state": true,
+        "img": "https://essential.vteximg.com.br/arquivos/ids/454285-1000-1000/302-0463_1.jpg?v=637632684826030000",
+        "category": ["Buzos"]
+    },
+    {
+        "title": "BUZO NIKE RTL",
+        "price": 6.999 ,
+        "description": "BUZO NIKE RTL De Moda Para Niño Código: DA0832-010",
+        "stock": 30,
+        "state": true,
+        "img": "https://essential.vteximg.com.br/arquivos/ids/453313-1000-1000/302-0435_1.jpg?v=637629032016130000",
+        "category": ["Buzos"]
+    },
+    {
+        "title": "BUZO NIKE NSW ICON CLASH",
+        "price": 9.999 ,
+        "description": "BUZO NIKE NSW ICON CLASH De Moda Para Mujer Código: CU5108-663",
+        "stock": 30,
+        "state": true,
+        "img": "https://essential.vteximg.com.br/arquivos/ids/437385-1000-1000/302-0270_1.jpg?v=637584293384830000",
+        "category": ["Buzos"]
+    },
+    {
+        "title": "BUZO NIKE BFF SHINE",
+        "price": 13.499 ,
+        "description": "Buzo Nike Bff Shine De Moda Para Mujer Código: Bv4994-010",
+        "stock": 45,
+        "state": true,
+        "img": "https://essential.vteximg.com.br/arquivos/ids/408016-1000-1000/304-7599_1.jpg?v=637498485814070000",
+        "category": ["Buzos"]
+    },
+    {
+        "title": "BUZO NIKE CON CAPUCHA",
+        "price": 9.499 ,
+        "description": "Buzo Nike Con Capucha De Moda Para Mujer Código: Cj2034-691",
+        "stock": 40,
+        "state": true,
+        "img": "https://essential.vteximg.com.br/arquivos/ids/350432-1000-1000/304-9958_1.jpg?v=637358609856170000",
+        "category": ["Buzos"]
+    },
+    {
+        "title": "BUZO NIKE M NSW HE PO KNIT HOODIE WASH",
+        "price": 15.499 ,
+        "description": "BUZO NIKE M NSW HE PO KNIT HOODIE WASH De Moda Para Hombre Código: DA0037-320",
+        "stock": 25,
+        "state": true,
+        "img": "https://essential.vteximg.com.br/arquivos/ids/454275-1000-1000/302-0462_1.jpg?v=637632684754030000",
+        "category": ["Buzos"]
+    },
+    {
+        "title": "CAMPERA NIKE FEMME",
+        "price": 16.499 ,
+        "description": "Campera Nike Femme De Moda Para Mujer Código: Cz9290-004",
+        "stock": 40,
+        "state": true,
+        "img": "https://essential.vteximg.com.br/arquivos/ids/469298-1000-1000/302-0519_1.jpg?v=637674153834070000",
+        "category": ["Camperas"]
+    },
+    {
+        "title": "CAMPERA NIKE G NSW CLUB FLC FZ HOODIE LBR",
+        "price": 7.999 ,
+        "description": "CAMPERA NIKE G NSW CLUB FLC FZ HOODIE LBR De Moda Para Hombre,Mujer,Unisex Código: DC7118-010",
+        "stock": 30,
+        "state": true,
+        "img": "https://essential.vteximg.com.br/arquivos/ids/454317-1000-1000/302-0464_1.jpg?v=637632684998370000",
+        "category": ["Camperas"]
+    },
+    {
+        "title": "CAMPERA NIKE NSW",
+        "price": 14.999 ,
+        "description": "CAMPERA NIKE NSW De Moda Para Mujer Código: CZ8618-630",
+        "stock": 30,
+        "state": true,
+        "img": "https://essential.vteximg.com.br/arquivos/ids/454203-1000-1000/302-0454_1.jpg?v=637631631264970000",
+        "category": ["Camperas"]
+    },
+    {
+        "title": "CAMPERA NIKE NSW AIR",
+        "price": 11.999,
+        "description": "CAMPERA NIKE NSW AIR De Moda Para Mujer Código: CJ3041-500",
+        "stock": 40,
+        "state": true,
+        "img": "https://essential.vteximg.com.br/arquivos/ids/425122-1000-1000/302-0114_1.jpg?v=637550615034630000",
+        "category": ["Camperas"]
+    },
+    {
+        "title": "CAMPERA NIKE AIR",
+        "price": 16.499 ,
+        "description": "CAMPERA NIKE AIR De Moda Para Hombre Código: CJ4819-011",
+        "stock": 30,
+        "state": true,
+        "img": "https://essential.vteximg.com.br/arquivos/ids/370464-1000-1000/302-0061_1.jpg?v=637390767003430000",
+        "category": ["Camperas"]
+    },
+    {
+        "title": "CAMPERA NIKE MIX",
+        "price": 10.999 ,
+        "description": "CAMPERA NIKE MIX De Moda Para Hombre Código: CI9584-325",
+        "stock": 40,
+        "state": true,
+        "img": "https://essential.vteximg.com.br/arquivos/ids/370474-1000-1000/302-0094_1.jpg?v=637390767062700000",
+        "category": ["Camperas"]
+    },
+    {
+        "title": "CAMPERA NIKE W NSW AIR JKT WVN",
+        "price": 15.499 ,
+        "description": "CAMPERA NIKE W NSW AIR JKT WVN De Moda Para Mujer Código: CZ9345-010",
+        "stock": 35,
+        "state": true,
+        "img": "https://essential.vteximg.com.br/arquivos/ids/454264-1000-1000/302-0459_1.jpg?v=637632684631000000",
+        "category": ["Camperas"]
+    }
+]
